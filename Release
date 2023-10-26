@@ -1,0 +1,12 @@
+Origin: MouseRepo
+Label: MouseRepo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Simple repo for my projects.
+
+SHA256:
+ d4d7992a377168f8f1c67b52b751db9810bdeea493c3f4e4e25e32cdc369b037 582 Packages.bz2
+ 08142444ed9905d7e3802effad9dbd2c7860c44e8f2482173809a040112d06d1 596 Packages.xz
